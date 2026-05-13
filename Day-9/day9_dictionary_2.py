@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+
+name = input("Enter container name: ")
+
+container = {
+    "container_name": name,
+    "image": "nginx:latest",
+    "status": "running"
+}
+
+print(f"Container Name: {container['container_name']}")
+print(f"Image: {container['image']}")
+print(f"Status: {container['status']}")
