@@ -1,0 +1,20 @@
+
+User: Sathya
+db1 : UP
+server1 : DOWN
+db2 : DOWN
+
+User: Sathya
+ser1 : UP
+db1 : DOWN
+db2 : UP
+
+User: Sathya
+db1 : UP
+server1 : UP
+db2 : UP
+
+User: Sathya
+dv1 : DOWN
+dc2 : UP
+db3 : UP
