@@ -14,7 +14,7 @@ Become interview-ready in:
 
 ## Current Focus
 
-1. Python Day 19-40
+1. Python Day 23-40
 2. Linux Revision
 
 ---
@@ -32,11 +32,11 @@ Become interview-ready in:
 * [x] Linux Architecture
 * [x] Linux Filesystem Basics
 * [x] Process Management
+* [x] Users and Groups
+* [x] Linux Permissions (chmod, chown)
 
 ### Upcoming
 
-* [ ] Users and Groups
-* [ ] Linux Permissions (chmod, chown)
 * [ ] Systemd and Services
 * [ ] Logging and Monitoring
 * [ ] Networking Basics
