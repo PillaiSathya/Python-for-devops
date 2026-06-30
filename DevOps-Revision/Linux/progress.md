@@ -34,10 +34,10 @@ Become interview-ready in:
 * [x] Process Management
 * [x] Users and Groups
 * [x] Linux Permissions (chmod, chown)
+* [x] Systemd and Services
 
 ### Upcoming
 
-* [ ] Systemd and Services
 * [ ] Logging and Monitoring
 * [ ] Networking Basics
 * [ ] Package Management
